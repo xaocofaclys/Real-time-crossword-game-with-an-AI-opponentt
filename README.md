@@ -16,6 +16,7 @@ It allows a human player to compete against an **AI opponent**, with live update
 - **Backend/Database:** Firebase Firestore  
 - **Hosting:** Netlify {https://crosswordspp.netlify.app/} 
 
+<img width="1920" height="987" alt="image" src="https://github.com/user-attachments/assets/30a45d4a-33bd-428a-9c2a-ff56f590d7d9" />
 
 <img width="1508" height="980" alt="image" src="https://github.com/user-attachments/assets/6889c67b-765c-4c29-9612-530d2fa7e74b" />
 
